@@ -1,6 +1,6 @@
 {
   "name": "ihoadon-selectable-actionsheet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customize for selectable",
   "main": "lib/index.js",
   "types": "lib/ts/index.d.ts",
