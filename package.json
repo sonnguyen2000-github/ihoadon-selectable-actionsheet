@@ -1,7 +1,7 @@
 {
-  "name": "@alessiocancian/react-native-actionsheet",
-  "version": "3.1.2",
-  "description": "Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.",
+  "name": "ihoadon-selectable-actionsheet",
+  "version": "1.0.0",
+  "description": "Customize for selectable",
   "main": "lib/index.js",
   "types": "lib/ts/index.d.ts",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alessiocancian/react-native-actionsheet.git"
+    "url": "git+https://github.com/sonnguyen2000-github/ihoadon-selectable-actionsheet.git"
   },
   "keywords": [
     "actionsheet",
@@ -30,14 +30,14 @@
     "custom-action-sheet"
   ],
   "author": {
-    "name": "Alessio Cancian",
-    "url": "https://github.com/alessiocancian"
+    "name": "sonnh",
+    "url": "https://github.com/sonnguyen2000-github"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alessiocancian/react-native-actionsheet/issues"
+    "url": "https://github.com/sonnguyen2000-github/ihoadon-selectable-actionsheet/issues"
   },
-  "homepage": "https://github.com/alessiocancian/react-native-actionsheet#readme",
+  "homepage": "https://github.com/sonnguyen2000-github/ihoadon-selectable-actionsheet#readme",
   "peerDependencies": {
     "prop-types": ">=15.4.0",
     "react": ">=15.4.0",
