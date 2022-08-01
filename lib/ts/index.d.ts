@@ -52,7 +52,7 @@ type Props = {
    */
   selectIcon?: any;
   onSelectedChange?: (arr: number[]) => void;
-  selectIconStyle: StyleProp<ViewStyle>;
+  selectIconStyle?: StyleProp<ViewStyle>;
 };
 
 type ActionSheetProps = Props & {
