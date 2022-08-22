@@ -1,5 +1,5 @@
 import React, { Component, Requireable } from "react";
-import { TextStyle, ViewStyle, StyleProp } from "react-native";
+import { TextStyle, ViewStyle, StyleProp, ImageStyle } from "react-native";
 
 type Props = {
   options: string[];
@@ -52,7 +52,8 @@ type Props = {
    */
   selectIcon?: any;
   onSelectedChange?: (arr: number[]) => void;
-  selectIconStyle: StyleProp<ViewStyle>;
+  selectIconStyle?: StyleProp<ImageStyle>;
+  selectIconWrapperStyle?: StyleProp<ViewStyle>
 };
 
 type ActionSheetProps = Props & {
