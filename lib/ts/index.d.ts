@@ -28,6 +28,8 @@ type Props = {
     body?: ViewStyle;
 
     selectTextStyle?: TextStyle;
+
+    cancelButtonText?: TextStyle
   };
 
   /**
